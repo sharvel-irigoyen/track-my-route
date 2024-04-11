@@ -51,7 +51,7 @@ Producto:
 | :------------------------------: | :--------: |
 |     Nombre                       |            |
 |    Nombre                        |            |
-| Casimiro Fernandez,Carlos Oswaldo| U202115412 |
+| Casimiro Fernandez, Carlos Oswaldo| U202115412 |
 | Nombre                           |            |
 | Mancilla Ordaya, Eduardo Vicente | U202018894 |
 |  Nombre                          |            |
