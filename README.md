@@ -182,7 +182,22 @@ Business Assumptions
 10. Marketing efectivo: Suponemos que podemos llevar a cabo estrategias de marketing efectivas para aumentar la conciencia y la adopción de la aplicación entre los residentes y visitantes de Lima.
 
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+
+      Creemos que existe una demanda insatisfecha de una aplicación de planificación de rutas de transporte público en Lima. 
+Realizaremos encuestas y análisis de mercado para evaluar el interés y la disposición de los usuarios para utilizar la aplicación. 
+Suponemos que las empresas de transporte público estarán dispuestas a colaborar y proporcionar datos esenciales para nuestra aplicación. 
+Iniciaremos conversaciones con empresas de transporte para determinar su interés y disposición para colaborar.
+Creemos que la población de Lima está dispuesta a utilizar aplicaciones móviles para planificar sus viajes en transporte público. 
+Realizaremos encuestas de aceptación de tecnología y evaluaremos la adopción inicial de la aplicación. 
+Suponemos que habrá competidores en el mercado de aplicaciones de transporte público y que podemos diferenciarnos. 
+Realizaremos un análisis de la competencia y evaluaremos nuestra propuesta de valor única. 
+Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación y la venta de boletos. 
+Implementaremos estos modelos y evaluaremos la generación de ingresos y la aceptación de los usuarios.
+      
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+
+![alt text](image-1.png)
+
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 - [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
   - [2.1. Competidores](#21-competidores)
