@@ -104,7 +104,7 @@ URL Project Report (Github):
     Carlos Oswaldo Casimiro: Tengo 18 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
 
     ![alt text](image.png)
-    <img src="images/image.png" alt="image.png" width="40%">
+    <img src="images/image.png" alt="text" width="40%">
 
   - [1.2. Solution Profile](#12-solution-profile)
 
