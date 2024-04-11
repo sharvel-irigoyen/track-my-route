@@ -194,7 +194,7 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
       
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
